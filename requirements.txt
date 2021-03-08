@@ -1,0 +1,5 @@
+pypng
+pillow
+pysodium
+pyzbar
+zbarlight
